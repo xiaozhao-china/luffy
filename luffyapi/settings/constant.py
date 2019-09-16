@@ -1,0 +1,4 @@
+#项目常量配置
+
+BANNER_LIMIT_COUNT = 3
+
